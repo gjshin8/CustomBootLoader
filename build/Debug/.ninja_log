@@ -1,0 +1,26 @@
+# ninja log v6
+1	199	1721559950721525130	CMakeFiles/CustomBootloader.dir/Core/Src/main.c.obj	44d0044c998bbb1b
+2	207	1721559950725525128	CMakeFiles/CustomBootloader.dir/Core/Src/stm32f4xx_hal_msp.c.obj	82db1569349c8461
+2	215	1721559950725525128	CMakeFiles/CustomBootloader.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_crc.c.obj	cd050424665fe6a3
+1	222	1721559950721525130	CMakeFiles/CustomBootloader.dir/Core/Src/stm32f4xx_it.c.obj	c4284c0bc5d095c2
+3	234	1721559950725525128	CMakeFiles/CustomBootloader.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj	74bc992a38a4b69e
+2	239	1721559950725525128	CMakeFiles/CustomBootloader.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj	a3edac35ab25ff35
+200	389	1721559950921525070	CMakeFiles/CustomBootloader.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj	c6e9e46fe6298805
+215	422	1721559950937525066	CMakeFiles/CustomBootloader.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj	1602d23f0e1530e8
+207	430	1721559950929525068	CMakeFiles/CustomBootloader.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj	89c5f4464b185fc8
+234	455	1721559950957525060	CMakeFiles/CustomBootloader.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj	a202193f8cab6aa2
+222	468	1721559950945525063	CMakeFiles/CustomBootloader.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj	380d17b7aeabf97f
+239	493	1721559950961525058	CMakeFiles/CustomBootloader.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj	65dadafb1bf11f75
+389	647	1721559951109525027	CMakeFiles/CustomBootloader.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj	5d249f67832f676
+493	657	1721559951213525008	CMakeFiles/CustomBootloader.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj	f54790ce380c707b
+468	665	1721559951189525012	CMakeFiles/CustomBootloader.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj	227fa2254adbb58c
+455	691	1721559951177525014	CMakeFiles/CustomBootloader.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj	e58592fdfc932a66
+430	704	1721559951153525019	CMakeFiles/CustomBootloader.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj	29b62ef4cae020c2
+422	711	1721559951145525021	CMakeFiles/CustomBootloader.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj	5b66edad24847e25
+711	765	1721559951433524968	CMakeFiles/CustomBootloader.dir/startup_stm32f401xe.s.obj	8f81c4d8c528c1b2
+691	783	1721559951413524972	CMakeFiles/CustomBootloader.dir/Core/Src/sysmem.c.obj	d8df7ed84bb8ff4d
+705	789	1721559951425524969	CMakeFiles/CustomBootloader.dir/Core/Src/syscalls.c.obj	74a4a15967e23266
+647	808	1721559951369524979	CMakeFiles/CustomBootloader.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj	befdc3599b553545
+665	835	1721559951385524976	CMakeFiles/CustomBootloader.dir/Core/Src/system_stm32f4xx.c.obj	e927e555920272d
+657	928	1721559951377524978	CMakeFiles/CustomBootloader.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_uart.c.obj	66dc575155953515
+928	1046	1721559951649524929	CustomBootloader.elf	68be3e231b1fc472
